@@ -1,0 +1,7 @@
+{
+  "uuid": "yahya-empty-notification@local",
+  "name": "Yahya Empty Notification",
+  "description": "Shows a sad-cat animation when there are no notifications and a laptop-cat animation when notifications exist.",
+  "version": 4,
+  "shell-version": ["50"]
+}
